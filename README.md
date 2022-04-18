@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on EPU University
 - 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS
 - 💬 Ask me about Frontend Development
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can do more than 10 push-ups
+- 📫 How to reach me:
 
 🐦 [twitter][twitter] **|** 
 📰 [facebook][facebook] **|** 
